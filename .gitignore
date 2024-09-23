@@ -1,0 +1,18 @@
+# DailyCodingProblem gitignore
+# https://github.com/EwanBurnett/DailyCodingProblem.git
+# Ewan Burnett (EwanBurnettSK@outlook.com) 
+# 2024-09-23
+
+# Ignore IDE Generated files
+.vs/
+*.swp
+cache/
+
+# Ignore Build files
+[Bb][Uu][Ii][Ll][Dd]/
+[Oo][Uu][Tt]/
+
+*.exe
+*.a
+*.o
+*.out
