@@ -15,6 +15,8 @@ cmake .. -DENABLE_UNIT_TESTS=ON
 
 This will add Unit Test results to the executable's output. 
 
+![image](https://github.com/user-attachments/assets/4a9ded1f-ae7a-448f-8edd-6b4abf6eab73)
+
 
 ## Build Instructions
 - Clone the Repository via git
@@ -42,5 +44,7 @@ make
 ### Visual Studio with CMake [Windows]
 - Install [C++ CMake tools for Windows](https://learn.microsoft.com/en-us/cpp/build/cmake-projects-in-visual-studio?view=msvc-170) for your Visual Studio Distribution. 
 - Open the repository folder in Visual Studio
-- Select a project to build from the dropdown, and run. 
+- Select a project to build from the dropdown, and run.
+
+![image](https://github.com/user-attachments/assets/98460d7a-7b4c-48d8-bbe0-0fb565f6f6e7)
 
